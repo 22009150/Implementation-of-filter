@@ -153,8 +153,6 @@ plt.show()
 
 ## OUTPUT:
 ### 1. Smoothing Filters
-![image](https://github.com/22009150/Implementation-of-filter/assets/118708624/18469bb2-9d9f-4641-99e5-1e033c8ceef5)
-
 
 ## i) Using Averaging Filter
 
@@ -172,17 +170,13 @@ plt.show()
 
 ![image](https://github.com/22009150/Implementation-of-filter/assets/118708624/91c6c7af-0fec-4969-936e-daee395ed6c4)
 
-![image](https://github.com/22009150/Implementation-of-filter/assets/118708624/0b24b9f1-a902-4d98-90d8-ae7230945c99)
+
 
 
 
 ## iv) Using Median Filter
 
 ![image](https://github.com/22009150/Implementation-of-filter/assets/118708624/02d979a3-a348-460c-b1dd-6b5c3d625c83)
-
-
-![image](https://github.com/22009150/Implementation-of-filter/assets/118708624/7c770782-3ad2-45df-aa96-b686b96d8152)
-
 
 
 ### 2. Sharpening Filters
@@ -192,16 +186,13 @@ plt.show()
 
 ![image](https://github.com/22009150/Implementation-of-filter/assets/118708624/932b0f1b-0642-4714-9d7e-d374734f2d87)
 
-![image](https://github.com/22009150/Implementation-of-filter/assets/118708624/25c69ca1-e2f2-4a1b-a682-c10f327a795a)
+
 
 
 
 ## ii) Using Laplacian Operator
 
 ![image](https://github.com/22009150/Implementation-of-filter/assets/118708624/8569350d-2c2c-4d6d-bc42-7ce860db630a)
-
-
-![image](https://github.com/22009150/Implementation-of-filter/assets/118708624/8c22d7d3-ec90-4cb8-83d0-c7a349020fdf)
 
 
 
